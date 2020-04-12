@@ -1,0 +1,25 @@
+{
+  "name": "teachable-machine-image-nodejs-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "clean": "rm -rf node_modules && npm install",
+    "predict": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traumverloren/teachable-machine-image-nodejs-starter.git"
+  },
+  "author": "Stephanie Nemeth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/traumverloren/teachable-machine-image-nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/traumverloren/teachable-machine-image-nodejs-starter#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.7.2",
+    "canvas": "2.6.0"
+  }
+}
