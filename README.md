@@ -1,6 +1,6 @@
-# Teachable Machine image prediction in Node.js starter
+# Teachable Machine image prediction in Node.js & Tensorflow.js
 
-Basic starter setup for getting an image classification model trained on [Teachable Machine](https://teachablemachine.withgoogle.com/train) to classify an image in Node.js.
+Basic starter setup for getting an image classification model trained on [Teachable Machine](https://teachablemachine.withgoogle.com/train) to classify an image in Node.js with Tensorflow.js.
 
 This is only a bit of starter code to help others get started that want to use their Teachable Machine trained model in a nodejs project. I found it challenging to figure out how to use my trained model in nodejs, so I hope this helps! <3
 
